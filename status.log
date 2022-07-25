@@ -1,2 +1,4 @@
 2022-07-22 12:28:55,300 - __main__ - INFO - Token value: Token not available!
 2022-07-22 12:28:55,758 - __main__ - INFO - Weather in Berlin: 24.77
+2022-07-25 01:55:36,016 - __main__ - INFO - Token value: 1234
+2022-07-25 01:55:36,116 - __main__ - INFO - Weather in Berlin: 81.41
